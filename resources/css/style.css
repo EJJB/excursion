@@ -1,18 +1,21 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1, h2, h3 {
-  font-color: white;
+  color: white;
+  font-family: verdana;
 }
 
-  h1 {
+h1 {
   font-family: verdana;
   font-size: 50;
   font-weight: normal;
 }
 
-p {
-  font-color: aquamarine;
+a {
+  color: aquamarine;
   font-size: 16px;
+  font-family: verdana;
 }
